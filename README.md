@@ -1,2 +1,2 @@
-# Invader-Racing
- Simple invader racing game
+Target resolution: 800x500px
+Target platform: Google Chrome
